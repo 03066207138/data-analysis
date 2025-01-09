@@ -1,4 +1,4 @@
-# Students Stress Analysis
+# Factors affecting students health
 
 This project analyzes stress levels among students using data analysis techniques. It explores the impact of various factors like academic workload, sleep hours, and gender on stress levels.
 
@@ -9,7 +9,7 @@ This project analyzes stress levels among students using data analysis technique
 
 ## Dataset
 The dataset includes information on:
-- **Stress Level** (target variable)
+- **Health Risk** (target variable)
 - **Academic Workload** (hours spent on studies per week)
 - **Sleep Hours** (average hours of sleep per day)
 - **Gender**
